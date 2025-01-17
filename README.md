@@ -14,23 +14,23 @@
 │   ├── middlewares
 │   │   └── exampleMiddleware.js
 │   |
-│   ├── middlewares
-│   │   └── exampleMiddleware.js
+│   ├── models
+│   │   └── exampleModels.js
 │   |
-│   ├── middlewares
-│   │   └── exampleMiddleware.js
+│   ├── repository
+│   │   └── exampleRepository.js
 │   │
-│   ├── middlewares
-│   │   └── exampleMiddleware.js
+│   ├── routes
+│   │   └── exampleRoutes.js
 │   |
-│   ├── middlewares
-│   │   └── exampleMiddleware.js
+│   ├── services
+│   │   └── exampleService.js
 │   |
-│   ├── middlewares
-│   │   └── exampleMiddleware.js
+│   ├── utils
+│   │   └── exampleUtil.js
 │   │
-│   └── middlewares
-│       └── exampleMiddleware.js
+│   └── validations
+│       └── exampleValidation.js
 │
 ├── .env.example
 ├── .prettierignore
